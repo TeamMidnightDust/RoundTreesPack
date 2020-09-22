@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "byg:blocks/cika_log_top",
+        "side": "byg:blocks/cika_log",
+		"particle": "byg:blocks/cika_log"
+    }
+}

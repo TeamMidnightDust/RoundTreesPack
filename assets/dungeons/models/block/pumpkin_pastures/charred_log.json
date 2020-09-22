@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "dungeons:block/pumpkin_pastures/charred_log_top",
+        "side": "dungeons:block/pumpkin_pastures/charred_log",
+		"particle": "dungeons:block/pumpkin_pastures/charred_log"
+    }
+}

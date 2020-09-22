@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "woods_and_mires:block/pine_snag_log_top",
+        "side": "woods_and_mires:block/pine_snag_log",
+		"particle": "woods_and_mires:block/pine_snag_log"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "byg:blocks/redwood_log_top",
+        "side": "byg:blocks/redwood_log",
+		"particle": "byg:blocks/redwood_log"
+    }
+}

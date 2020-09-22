@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "byg:blocks/willow_log_top",
+        "side": "byg:blocks/willow_log",
+		"particle": "byg:blocks/willow_log"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "wildnature:blocks/plum/plum_log_top",
+        "side": "wildnature:blocks/plum/plum_log",
+		"particle": "wildnature:blocks/plum/plum_log"
+    }
+}

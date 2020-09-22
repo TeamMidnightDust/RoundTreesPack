@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "biomesoplenty:block/magic_log_top",
+        "side": "biomesoplenty:block/magic_log",
+		"particle": "biomesoplenty:block/magic_log"
+    }
+}
