@@ -1,8 +1,8 @@
 {
     "parent": "block/log",
     "textures": {
-        "top": "byg:blocks/aspen_log_top",
-        "side": "byg:blocks/aspen_log",
-		"particle": "byg:blocks/aspen_log"
+        "top": "byg:block/aspen_log_top",
+        "side": "byg:block/aspen_log",
+		"particle": "byg:block/aspen_log"
     }
 }

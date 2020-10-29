@@ -1,8 +1,8 @@
 {
     "parent": "block/log",
     "textures": {
-        "top": "byg:blocks/jacaranda_log_top",
-        "side": "byg:blocks/jacaranda_log",
-		"particle": "byg:blocks/jacaranda_log"
+        "top": "byg:block/jacaranda_log_top",
+        "side": "byg:block/jacaranda_log",
+		"particle": "byg:block/jacaranda_log"
     }
 }
