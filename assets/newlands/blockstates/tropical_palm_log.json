@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "newlands:block/tropical_palm_log" },
+        "axis=z":     { "model": "newlands:block/tropical_palm_log", "x": 90 },
+        "axis=x":     { "model": "newlands:block/tropical_palm_log", "x": 90, "y": 90 }
+    }
+}

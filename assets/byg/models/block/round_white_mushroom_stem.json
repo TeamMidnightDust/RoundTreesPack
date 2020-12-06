@@ -1,0 +1,9 @@
+{
+	"credit": "made by Motschen",
+	"parent": "block/round_mushroom_stem",
+	"textures": {
+		"1": "block/mushroom_block_inside",
+		"2": "byg:block/white_mushroom_stem",
+		"particle": "byg:block/white_mushroom_stem"
+	}
+}

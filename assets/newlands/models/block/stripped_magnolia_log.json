@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "newlands:block/stripped_magnolia_log_top",
+        "side": "newlands:block/stripped_magnolia_log",
+		"particle": "newlands:block/stripped_magnolia_log"
+    }
+}
