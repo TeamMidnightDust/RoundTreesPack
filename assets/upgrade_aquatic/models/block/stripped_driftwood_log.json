@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "upgrade_aquatic:block/driftwood_log_top_stripped",
+        "side": "upgrade_aquatic:block/stripped_driftwood_log",
+		"particle": "upgrade_aquatic:block/stripped_driftwood_log"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "naturesaura:block/ancient_log" },
+        "axis=z":     { "model": "naturesaura:block/ancient_log", "x": 90 },
+        "axis=x":     { "model": "naturesaura:block/ancient_log", "x": 90, "y": 90 }
+    }
+}
