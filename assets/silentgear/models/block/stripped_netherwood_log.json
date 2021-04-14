@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "silentgear:block/stripped_netherwood_log_top",
+        "side": "silentgear:block/stripped_netherwood_log",
+		"particle": "silentgear:block/stripped_netherwood_log"
+    }
+}
