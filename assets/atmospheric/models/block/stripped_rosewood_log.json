@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "atmospheric:block/stripped_rosewood_log_top",
+        "side": "atmospheric:block/stripped_rosewood_log",
+		"particle": "atmospheric:block/stripped_rosewood_log"
+    }
+}

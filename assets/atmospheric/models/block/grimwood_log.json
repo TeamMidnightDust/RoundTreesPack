@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "atmospheric:block/grimwood_log_top",
+        "side": "atmospheric:block/grimwood_log",
+		"particle": "atmospheric:block/grimwood_log"
+    }
+}

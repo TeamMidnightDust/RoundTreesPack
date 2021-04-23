@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "enhanced_mushrooms:block/brown_mushroom_stem_top",
+        "side": "enhanced_mushrooms:block/brown_mushroom_stem",
+		"particle": "enhanced_mushrooms:block/brown_mushroom_stem"
+    }
+}
