@@ -1,0 +1,12 @@
+{
+  "parent": "block/log",
+  "textures": {
+    "down": "ore_tree:blocks/lapis_ore_2",
+    "up": "ore_tree:blocks/lapis_ore_2",
+    "north": "ore_tree:blocks/lapis_log_1",
+    "east": "ore_tree:blocks/lapis_log_1",
+    "south": "ore_tree:blocks/lapis_log_1",
+    "west": "ore_tree:blocks/lapis_log_1",
+    "particle": "ore_tree:blocks/lapis_ore_2"
+  }
+}
