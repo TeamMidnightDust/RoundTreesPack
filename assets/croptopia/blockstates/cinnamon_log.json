@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "croptopia:block/cinnamon_log" },
+        "axis=z":     { "model": "croptopia:block/cinnamon_log", "x": 90 },
+        "axis=x":     { "model": "croptopia:block/cinnamon_log", "x": 90, "y": 90 }
+    }
+}
