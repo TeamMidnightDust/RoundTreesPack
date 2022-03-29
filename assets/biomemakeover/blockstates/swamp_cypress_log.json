@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "biomemakeover:block/swamp_cypress_log" },
+        "axis=z":     { "model": "biomemakeover:block/swamp_cypress_log", "x": 90 },
+        "axis=x":     { "model": "biomemakeover:block/swamp_cypress_log", "x": 90, "y": 90 }
+    }
+}
