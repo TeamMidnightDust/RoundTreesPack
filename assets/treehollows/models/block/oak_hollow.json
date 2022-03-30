@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/log",
+	"parent": "minecraft:block/hollow",
 	"textures": {
 		"top": "minecraft:block/oak_log_top",
 		"front": "treehollows:block/oak_hollow",
