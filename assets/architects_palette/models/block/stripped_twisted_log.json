@@ -1,7 +1,7 @@
 {
   "parent": "block/log",
   "textures": {
-    "end":  "architects_palette:block/stripped_twisted_log_top",
+    "top":  "architects_palette:block/stripped_twisted_log_top",
     "side": "architects_palette:block/stripped_twisted_log",
     "particle": "architects_palette:block/stripped_twisted_log"
   }
