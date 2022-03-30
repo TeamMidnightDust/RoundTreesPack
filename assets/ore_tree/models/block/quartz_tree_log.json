@@ -1,12 +1,8 @@
 {
   "parent": "block/log",
   "textures": {
-    "down": "ore_tree:blocks/quartz_ore_2",
-    "up": "ore_tree:blocks/quartz_ore_2",
-    "north": "ore_tree:blocks/quartz_log_1",
-    "east": "ore_tree:blocks/quartz_log_1",
-    "south": "ore_tree:blocks/quartz_log_1",
-    "west": "ore_tree:blocks/quartz_log_1",
+    "top": "ore_tree:blocks/quartz_ore_2",
+    "side": "ore_tree:blocks/quartz_log_1",
     "particle": "ore_tree:blocks/quartz_ore_2"
   }
 }
