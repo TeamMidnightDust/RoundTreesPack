@@ -1,0 +1,7 @@
+{
+  "parent": "block/log",
+  "textures": {
+    "top": "byg:block/nightshade_log_top",
+    "side": "byg:block/imbued_nightshade_log"
+  }
+}

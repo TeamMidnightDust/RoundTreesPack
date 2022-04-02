@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "bewitchment:block/elder_log" },
+        "axis=z":     { "model": "bewitchment:block/elder_log", "x": 90 },
+        "axis=x":     { "model": "bewitchment:block/elder_log", "x": 90, "y": 90 }
+    }
+}

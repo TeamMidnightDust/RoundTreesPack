@@ -1,0 +1,7 @@
+{
+  "parent": "block/log",
+  "textures": {
+    "top": "blockus:block/jungle_small_logs_top",
+    "side": "blockus:block/jungle_small_logs"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/log",
+  "textures": {
+    "top": "blockus:block/birch_small_logs_top",
+    "side": "blockus:block/birch_small_logs"
+  }
+}

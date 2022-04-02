@@ -1,0 +1,7 @@
+{
+  "parent": "block/log",
+  "textures": {
+    "top": "bewitchment:block/stripped_dragons_blood_log_top",
+    "side": "bewitchment:block/stripped_dragons_blood_log"
+  }
+}

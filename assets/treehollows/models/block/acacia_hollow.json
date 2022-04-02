@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/hollow",
+	"textures": {
+		"top": "minecraft:block/acacia_log_top",
+		"front": "treehollows:block/acacia_hollow",
+		"side": "minecraft:block/acacia_log"
+	}
+}
