@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "byg:block/mahogany/log_top",
+        "side": "byg:block/mahogany/log",
+		"particle": "byg:block/mahogany/log"
+    }
+}

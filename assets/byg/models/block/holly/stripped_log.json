@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "byg:block/holly/stripped_log_top",
+        "side": "byg:block/holly/stripped_log",
+		"particle": "byg:block/holly/stripped_log"
+    }
+}

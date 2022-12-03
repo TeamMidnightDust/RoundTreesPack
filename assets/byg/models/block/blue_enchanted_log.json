@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "byg:block/blue_enchanted_log_top",
-        "side": "byg:block/blue_enchanted_log",
-		"particle": "byg:block/blue_enchanted_log"
-    }
-}

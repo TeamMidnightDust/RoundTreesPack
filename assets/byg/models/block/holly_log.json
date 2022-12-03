@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "byg:block/holly_log_top",
-        "side": "byg:block/holly_log",
-		"particle": "byg:block/holly_log"
-    }
-}

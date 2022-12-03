@@ -2,7 +2,7 @@
     "parent": "block/log",
     "textures": {
         "top": "byg:block/nightshade/log_top",
-        "side": "byg:block/imbued_nightshade_log",
-		"particle": "byg:block/imbued_nightshade_log"
+        "side": "byg:block/nightshade/log",
+		"particle": "byg:block/nightshade/log"
     }
 }

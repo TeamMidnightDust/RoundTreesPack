@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "byg:block/skyris/log_top",
+        "side": "byg:block/skyris/log",
+		"particle": "byg:block/skyris/log"
+    }
+}

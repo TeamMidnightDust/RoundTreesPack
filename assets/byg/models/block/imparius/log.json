@@ -1,0 +1,7 @@
+{
+  "parent": "block/log",
+  "textures": {
+    "top": "byg:block/imparius/log_top",
+    "side": "byg:block/imparius/log"
+  }
+}

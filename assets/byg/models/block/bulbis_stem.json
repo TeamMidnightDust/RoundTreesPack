@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "byg:block/bulbis_stem_top",
-        "side": "byg:block/bulbis_stem",
-		"particle": "byg:block/bulbis_stem"
-    }
-}
