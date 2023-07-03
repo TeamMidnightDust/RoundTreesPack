@@ -1,0 +1,8 @@
+{
+  "parent": "block/log",
+  "textures": {
+    "top": "great_big_world:block/acai_log_top",
+    "side": "great_big_world:block/acai_log",
+    "particle": "great_big_world:block/acai_log"
+  }
+}
