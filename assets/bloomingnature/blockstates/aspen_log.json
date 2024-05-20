@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "bloomingnature:block/aspen_log" },
+        "axis=z":     { "model": "bloomingnature:block/aspen_log", "x": 90 },
+        "axis=x":     { "model": "bloomingnature:block/aspen_log", "x": 90, "y": 90 }
+    }
+}

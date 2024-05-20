@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "bloomingnature:block/fir_log" },
+        "axis=z":     { "model": "bloomingnature:block/fir_log", "x": 90 },
+        "axis=x":     { "model": "bloomingnature:block/fir_log", "x": 90, "y": 90 }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "bloomingnature:block/fan_palm_log_top_stripped",
+        "stripped": "bloomingnature:block/fan_palm_log_stripped",
+		"particle": "bloomingnature:block/fan_palm_log_stripped"
+    }
+}

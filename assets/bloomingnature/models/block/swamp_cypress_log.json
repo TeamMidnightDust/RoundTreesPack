@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "bloomingnature:block/swamp_cypress_log_top",
+        "side": "bloomingnature:block/swamp_cypress_log_side",
+		"particle": "bloomingnature:block/swamp_cypress_log_side"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "bloomingnature:block/aspen_log_top",
+        "side": "bloomingnature:block/aspen_log_side",
+		"particle": "bloomingnature:block/aspen_log_side"
+    }
+}
