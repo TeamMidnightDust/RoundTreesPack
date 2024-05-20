@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "pamhc2trees:block/maple_stage_0",
+		"side": "pamhc2trees:block/maple_stage_0",
+		"particle": "pamhc2trees:block/maple_stage_0"
+    }
+}

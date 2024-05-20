@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "luphieclutteredmod:block/stripped_glow_log_top",
+        "side": "luphieclutteredmod:block/stripped_glow_log",
+		"particle": "luphieclutteredmod:block/stripped_glow_log"
+    }
+}

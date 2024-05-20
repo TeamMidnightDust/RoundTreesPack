@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "neapolitan:block/beanstalk" },
+        "axis=z":     { "model": "neapolitan:block/beanstalk", "x": 90 },
+        "axis=x":     { "model": "neapolitan:block/beanstalk", "x": 90, "y": 90 }
+    }
+}

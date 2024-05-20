@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "luphieclutteredmod:block/stripped_luphie_yellow_log" },
+        "axis=z":     { "model": "luphieclutteredmod:block/stripped_luphie_yellow_log", "x": 90 },
+        "axis=x":     { "model": "luphieclutteredmod:block/stripped_luphie_yellow_log", "x": 90, "y": 90 }
+    }
+}

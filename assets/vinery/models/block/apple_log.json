@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "vinery:block/apple_log_top",
+        "side": "vinery:block/apple_log_side",
+		"particle": "vinery:block/apple_log_side"
+    }
+}

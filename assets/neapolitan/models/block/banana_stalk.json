@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "neapolitan:block/banana_stalk_top",
+        "side": "neapolitan:block/banana_stalk",
+		"particle": "neapolitan:block/banana_stalk"
+    }
+}

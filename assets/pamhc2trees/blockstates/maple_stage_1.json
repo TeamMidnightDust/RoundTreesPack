@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "pamhc2trees:block/maple_stage_1" },
+        "axis=z":     { "model": "pamhc2trees:block/maple_stage_1", "x": 90 },
+        "axis=x":     { "model": "pamhc2trees:block/maple_stage_1", "x": 90, "y": 90 }
+    }
+}

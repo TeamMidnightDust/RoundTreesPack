@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "pamhc2trees:block/cinnamon_stage_2" },
+        "axis=z":     { "model": "pamhc2trees:block/cinnamon_stage_2", "x": 90 },
+        "axis=x":     { "model": "pamhc2trees:block/cinnamon_stage_2", "x": 90, "y": 90 }
+    }
+}

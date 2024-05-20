@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "vinery:block/stripped_dark_cherry_log" },
+        "axis=z":     { "model": "vinery:block/stripped_dark_cherry_log", "x": 90 },
+        "axis=x":     { "model": "vinery:block/stripped_dark_cherry_log", "x": 90, "y": 90 }
+    }
+}

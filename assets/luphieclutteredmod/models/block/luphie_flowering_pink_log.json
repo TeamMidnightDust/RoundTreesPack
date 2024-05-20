@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "luphieclutteredmod:block/flowering_pink_log_top",
+        "side": "luphieclutteredmod:block/flowering_pink_log",
+		"particle": "luphieclutteredmod:block/flowering_pink_log"
+    }
+}

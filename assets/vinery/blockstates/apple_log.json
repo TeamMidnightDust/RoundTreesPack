@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "vinery:block/apple_log" },
+        "axis=z":     { "model": "vinery:block/apple_log", "x": 90 },
+        "axis=x":     { "model": "vinery:block/apple_log", "x": 90, "y": 90 }
+    }
+}
