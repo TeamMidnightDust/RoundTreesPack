@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "snifferent:block/stripped_globar_log_top",
+        "side": "snifferent:block/stripped_globar_log_side",
+		"particle": "snifferent:block/stripped_globar_log_side"
+    }
+}
