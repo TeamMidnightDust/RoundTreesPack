@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "botania:block/dreamwood_log" },
+        "axis=z":     { "model": "botania:block/dreamwood_log", "x": 90 },
+        "axis=x":     { "model": "botania:block/dreamwood_log", "x": 90, "y": 90 }
+    }
+}

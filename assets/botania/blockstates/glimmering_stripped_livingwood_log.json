@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "botania:block/glimmering_stripped_livingwood_log" },
+        "axis=z":     { "model": "botania:block/glimmering_stripped_livingwood_log", "x": 90 },
+        "axis=x":     { "model": "botania:block/glimmering_stripped_livingwood_log", "x": 90, "y": 90 }
+    }
+}
