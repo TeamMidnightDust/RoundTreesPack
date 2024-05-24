@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "botania:block/porus_globar_log_0",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "botania:block/porus_globar_log_1",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "botania:block/porus_globar_log_2",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "botania:block/porus_globar_log_0"
+      },
+      {
+        "model": "botania:block/porus_globar_log_1"
+      },
+      {
+        "model": "botania:block/porus_globar_log_2"
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "botania:block/porus_globar_log_0",
+        "x": 90
+      },
+      {
+        "model": "botania:block/porus_globar_log_1",
+        "x": 90
+      },
+      {
+        "model": "botania:block/porus_globar_log_2",
+        "x": 90
+      }
+    ]
+  }
+}
