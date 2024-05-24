@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "exeventyre:block/crystwood_log_top",
+        "side": "exeventyre:block/crystwood_log_side",
+		"particle": "exeventyre:block/crystwood_log_side"
+    }
+}

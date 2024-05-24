@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "dffeasts:block/lychee_log_top",
+        "side": "dffeasts:block/lychee_log",
+		"particle": "dffeasts:block/lychee_log"
+    }
+}

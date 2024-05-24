@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "dffeasts:block/kiwi_log_top",
+        "side": "dffeasts:block/kiwi_log",
+		"particle": "dffeasts:block/kiwi_log"
+    }
+}

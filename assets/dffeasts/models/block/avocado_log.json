@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "dffeasts:block/avocado_log_top",
+        "side": "dffeasts:block/avocado_log",
+		"particle": "dffeasts:block/avocado_log"
+    }
+}

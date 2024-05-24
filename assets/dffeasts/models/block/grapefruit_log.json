@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "dffeasts:block/grapefruit_log_top",
+        "side": "dffeasts:block/grapefruit_log",
+		"particle": "dffeasts:block/grapefruit_log"
+    }
+}
