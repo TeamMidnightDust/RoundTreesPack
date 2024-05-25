@@ -1,0 +1,8 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "terraqueous:block/trees/mango_log_top",
+        "side": "terraqueous:block/trees/mango_log",
+		"particle": "terraqueous:block/trees/mango_log"
+    }
+}
