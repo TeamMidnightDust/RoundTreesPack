@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "terraqueous:block/trees/coconut_log_top",
-        "side": "terraqueous:block/trees/coconut_log",
-		"particle": "terraqueous:block/trees/coconut_log"
-    }
-}
