@@ -1,0 +1,9 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "woods_and_mires:block/pine_log_top",
+        "side": "woods_and_mires:block/pine_log_mid",
+		"bottom": "woods_and_mires:block/pine_log_top_aged",
+		"particle": "woods_and_mires:block/pine_log_mid"
+    }
+}
