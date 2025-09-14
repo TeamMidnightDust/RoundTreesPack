@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "made by Motschen",
 	"parent": "block/block",
 	"textures": {
@@ -39,7 +40,7 @@
 		},
 		{
 			"name": "north",
-			"from": [4, -0.05, -2],
+			"from": [4, -0.05, -1.65],
 			"to": [12, 16.05, 0],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, -0.1, 0]},
 			"faces": {
@@ -53,7 +54,7 @@
 		{
 			"name": "east",
 			"from": [16, -0.05, 4],
-			"to": [18, 16.05, 12],
+			"to": [17.65, 16.05, 12],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, -0.1, 0]},
 			"faces": {
 				"north": {"uv": [12, 0, 13, 16], "texture": "#side", "cullface": "east"},
@@ -66,7 +67,7 @@
 		{
 			"name": "south",
 			"from": [4, -0.05, 16],
-			"to": [12, 16.05, 18],
+			"to": [12, 16.05, 17.65],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, -0.1, 0]},
 			"faces": {
 				"east": {"uv": [12, 0, 13, 16], "texture": "#side", "cullface": "south"},
@@ -78,7 +79,7 @@
 		},
 		{
 			"name": "west",
-			"from": [-2, -0.05, 4],
+			"from": [-1.65, -0.05, 4],
 			"to": [0, 16.05, 12],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, -0.1, 0]},
 			"faces": {
