@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/log",
-  "textures": {
-    "top": "croptopia:block/cinnamon_log_top",
-    "side": "croptopia:block/cinnamon_log"
-  }
-}

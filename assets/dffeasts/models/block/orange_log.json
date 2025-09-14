@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "dffeasts:block/orange_log_top",
+        "side": "dffeasts:block/orange_log"
+    }
+}

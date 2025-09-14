@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "luphieclutteredmod:block/flowering_yellow_log_top",
+    "up": "luphieclutteredmod:block/flowering_yellow_log_top",
+    "north": "luphieclutteredmod:block/flowering_yellow_log",
+    "east": "luphieclutteredmod:block/flowering_yellow_log",
+    "south": "luphieclutteredmod:block/flowering_yellow_log",
+    "west": "luphieclutteredmod:block/flowering_yellow_log",
+    "particle": "luphieclutteredmod:block/flowering_yellow_log_top"
+  },
+  "render_type": "solid"
+}

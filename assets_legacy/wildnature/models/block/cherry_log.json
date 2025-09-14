@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "wildnature:blocks/cherry/cherry_log_top",
-        "side": "wildnature:blocks/cherry/cherry_log",
-		"particle": "wildnature:blocks/cherry/cherry_log"
-    }
-}

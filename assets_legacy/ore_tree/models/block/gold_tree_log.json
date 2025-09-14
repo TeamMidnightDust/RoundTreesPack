@@ -1,8 +1,0 @@
-{
-  "parent": "block/log",
-  "textures": {
-    "top": "ore_tree:blocks/gold_ore_2",
-    "side": "ore_tree:blocks/gold_log_1",
-    "particle": "ore_tree:blocks/gold_ore_2"
-  }
-}

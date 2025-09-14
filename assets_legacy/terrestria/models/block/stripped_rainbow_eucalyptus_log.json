@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "terrestria:block/stripped_rainbow_eucalyptus_log_top",
-        "side": "terrestria:block/stripped_rainbow_eucalyptus_log",
-		"particle": "terrestria:block/stripped_rainbow_eucalyptus_log"
-    }
-}

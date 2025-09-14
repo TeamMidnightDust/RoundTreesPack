@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "luphieclutteredmod:block/purple_log_top",
+        "side": "luphieclutteredmod:block/purple_log"
+    }
+}

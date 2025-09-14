@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "atmospheric:block/kousa_log_top",
-        "side": "atmospheric:block/kousa_log",
-		"particle": "atmospheric:block/kousa_log"
-    }
-}

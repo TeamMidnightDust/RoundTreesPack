@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "terrestria:block/willow_log_top",
-        "side": "terrestria:block/willow_log",
-		"particle": "terrestria:block/willow_log"
-    }
-}

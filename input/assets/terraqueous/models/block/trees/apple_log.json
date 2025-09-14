@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "terraqueous:block/trees/apple_log_top",
+        "side": "terraqueous:block/trees/apple_log"
+    }
+}

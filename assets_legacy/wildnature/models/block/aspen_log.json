@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "wildnature:blocks/aspen/aspen_log_top",
-        "side": "wildnature:blocks/aspen/aspen_log",
-		"particle": "wildnature:blocks/aspen/aspen_log"
-    }
-}

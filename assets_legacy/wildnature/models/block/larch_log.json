@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "wildnature:blocks/larch/larch_log_top",
-        "side": "wildnature:blocks/larch/larch_log",
-		"particle": "wildnature:blocks/larch/larch_log"
-    }
-}

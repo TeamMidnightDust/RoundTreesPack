@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "promenade:block/maple_log_top",
+        "side": "promenade:block/maple_log"
+    }
+}

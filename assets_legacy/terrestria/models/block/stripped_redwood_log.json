@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "terrestria:block/stripped_redwood_log_top",
-        "side": "terrestria:block/stripped_redwood_log",
-		"particle": "terrestria:block/stripped_redwood_log"
-    }
-}

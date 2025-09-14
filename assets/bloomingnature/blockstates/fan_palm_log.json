@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "bloomingnature:block/fan_palm_log"
+        },
+        "axis=z": {
+            "model": "bloomingnature:block/fan_palm_log",
+            "x": 90,
+            "y": 180
+        },
+        "axis=x": {
+            "model": "bloomingnature:block/fan_palm_log",
+            "x": 90,
+            "y": 90,
+            "z": 90
+        }
+    }
+}

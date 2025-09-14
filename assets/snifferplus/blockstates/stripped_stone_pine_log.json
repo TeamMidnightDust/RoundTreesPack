@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "snifferplus:block/stripped_stone_pine_log"
+        },
+        "axis=z": {
+            "model": "snifferplus:block/stripped_stone_pine_log",
+            "x": 90,
+            "y": 180
+        },
+        "axis=x": {
+            "model": "snifferplus:block/stripped_stone_pine_log",
+            "x": 90,
+            "y": 90,
+            "z": 90
+        }
+    }
+}

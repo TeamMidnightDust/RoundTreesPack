@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "hibernalherbs:block/myqueste_log"
+        },
+        "axis=z": {
+            "model": "hibernalherbs:block/myqueste_log",
+            "x": 90,
+            "y": 180
+        },
+        "axis=x": {
+            "model": "hibernalherbs:block/myqueste_log",
+            "x": 90,
+            "y": 90,
+            "z": 90
+        }
+    }
+}

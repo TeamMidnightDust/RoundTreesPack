@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "crimson:block/crimson_log_top",
-        "side": "crimson:block/crimson_log",
-		"particle": "crimson:block/crimson_log"
-    }
-}

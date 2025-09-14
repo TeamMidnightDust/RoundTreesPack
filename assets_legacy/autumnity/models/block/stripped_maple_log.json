@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "autumnity:block/stripped_maple_log_top",
-        "side": "autumnity:block/stripped_maple_log",
-		"particle": "autumnity:block/stripped_maple_log"
-    }
-}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "hibernalherbs:block/myqueste_log_top",
+        "side": "hibernalherbs:block/myqueste_log"
+    }
+}

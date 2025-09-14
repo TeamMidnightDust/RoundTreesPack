@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "wildnature:blocks/eucalyptus/eucalyptus_log_top",
-        "side": "wildnature:blocks/eucalyptus/eucalyptus_log",
-		"particle": "wildnature:blocks/eucalyptus/eucalyptus_log"
-    }
-}

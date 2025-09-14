@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "bloomingnature:block/larch_log_top",
+        "side": "bloomingnature:block/larch_log_side"
+    }
+}

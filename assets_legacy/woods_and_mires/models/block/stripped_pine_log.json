@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "woods_and_mires:block/stripped_pine_log_top",
-        "side": "woods_and_mires:block/stripped_pine_log",
-		"particle": "woods_and_mires:block/stripped_pine_log"
-    }
-}

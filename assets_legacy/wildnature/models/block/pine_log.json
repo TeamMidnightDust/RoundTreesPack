@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "wildnature:blocks/pine/pine_log_top",
-        "side": "wildnature:blocks/pine/pine_log",
-		"particle": "wildnature:blocks/pine/pine_log"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "the_aether:block/stripped_crystal_log_top",
-        "side": "the_aether:block/stripped_crystal_log_side",
-		"particle": "the_aether:block/stripped_crystal_log_side"
-    }
-}

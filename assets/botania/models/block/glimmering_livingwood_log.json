@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "botania:block/livingwood_log_top",
+        "side": "botania:block/glimmering_livingwood_log"
+    }
+}

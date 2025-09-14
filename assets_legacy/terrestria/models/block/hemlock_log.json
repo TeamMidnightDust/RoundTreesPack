@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "terrestria:block/hemlock_log_top",
-        "side": "terrestria:block/hemlock_log",
-		"particle": "terrestria:block/hemlock_log"
-    }
-}

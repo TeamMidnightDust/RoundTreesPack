@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hibernalherbs:block/myqueste_log_top",
+    "side": "hibernalherbs:block/myqueste_log"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "luphieclutteredmod:block/glow_log_top",
+    "up": "luphieclutteredmod:block/glow_log_top",
+    "north": "luphieclutteredmod:block/glow_log",
+    "east": "luphieclutteredmod:block/glow_log",
+    "south": "luphieclutteredmod:block/glow_log",
+    "west": "luphieclutteredmod:block/glow_log",
+    "particle": "luphieclutteredmod:block/glow_log_top"
+  },
+  "render_type": "solid"
+}

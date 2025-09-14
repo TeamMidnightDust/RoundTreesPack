@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "luphieclutteredmod:block/stripped_yellow_log_top",
+    "up": "luphieclutteredmod:block/stripped_yellow_log_top",
+    "north": "luphieclutteredmod:block/stripped_yellow_log",
+    "east": "luphieclutteredmod:block/stripped_yellow_log",
+    "south": "luphieclutteredmod:block/stripped_yellow_log",
+    "west": "luphieclutteredmod:block/stripped_yellow_log",
+    "particle": "luphieclutteredmod:block/stripped_yellow_log_top"
+  },
+  "render_type": "solid"
+}

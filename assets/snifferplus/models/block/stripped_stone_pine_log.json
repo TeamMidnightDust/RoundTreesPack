@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "snifferplus:block/stripped_stone_pine_log_top",
+        "side": "snifferplus:block/stripped_stone_pine_log"
+    }
+}

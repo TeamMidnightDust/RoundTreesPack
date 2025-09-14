@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "bloomingnature:block/ebony_log_top_stripped",
+        "side": "bloomingnature:block/ebony_log_side_stripped"
+    }
+}

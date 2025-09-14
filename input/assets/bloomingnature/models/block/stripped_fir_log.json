@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "bloomingnature:block/fir_log_top_stripped",
+    "side": "bloomingnature:block/fir_log_side_stripped"
+  }
+}

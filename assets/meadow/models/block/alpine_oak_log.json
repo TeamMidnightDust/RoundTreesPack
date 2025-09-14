@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "minecraft:block/oak_log_top",
+        "side": "minecraft:block/oak_log"
+    }
+}

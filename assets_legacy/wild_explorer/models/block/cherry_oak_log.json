@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "wild_explorer:block/cherry_oak_log/top",
-        "side": "wild_explorer:block/cherry_oak_log/side",
-		"particle": "wild_explorer:block/cherry_oak_log/side"
-    }
-}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "bloomingnature:block/fan_palm_log_top_stripped",
+        "side": "bloomingnature:block/fan_palm_log_stripped"
+    }
+}

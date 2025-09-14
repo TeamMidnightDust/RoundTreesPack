@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "wildnature:blocks/mangrove/mangrove_log_top",
-        "side": "wildnature:blocks/mangrove/mangrove_log",
-		"particle": "wildnature:blocks/mangrove/mangrove_log"
-    }
-}

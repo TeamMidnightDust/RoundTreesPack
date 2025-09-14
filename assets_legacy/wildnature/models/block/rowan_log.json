@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "wildnature:blocks/rowan/rowan_log_top",
-        "side": "wildnature:blocks/rowan/rowan_log",
-		"particle": "wildnature:blocks/rowan/rowan_log"
-    }
-}

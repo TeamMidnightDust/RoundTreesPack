@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "promenade:block/palm_log_top",
+        "side": "promenade:block/palm_log"
+    }
+}

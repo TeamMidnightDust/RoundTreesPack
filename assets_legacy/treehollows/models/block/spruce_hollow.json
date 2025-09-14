@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:block/hollow",
-	"textures": {
-		"top": "minecraft:block/spruce_log_top",
-		"front": "treehollows:block/spruce_hollow",
-		"side": "minecraft:block/spruce_log"
-	}
-}

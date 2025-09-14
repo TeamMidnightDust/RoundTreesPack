@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "luphieclutteredmod:block/purple_log_top",
+    "up": "luphieclutteredmod:block/purple_log_top",
+    "north": "luphieclutteredmod:block/purple_log",
+    "east": "luphieclutteredmod:block/purple_log",
+    "south": "luphieclutteredmod:block/purple_log",
+    "west": "luphieclutteredmod:block/purple_log",
+    "particle": "luphieclutteredmod:block/purple_log_top"
+  },
+  "render_type": "solid"
+}

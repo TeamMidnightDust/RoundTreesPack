@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "newlands:block/tropical_palm_log_top",
-        "side": "newlands:block/tropical_palm_log",
-		"particle": "newlands:block/tropical_palm_log"
-    }
-}

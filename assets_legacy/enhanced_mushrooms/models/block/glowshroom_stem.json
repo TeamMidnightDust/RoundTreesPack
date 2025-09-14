@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "enhanced_mushrooms:block/glowshroom_stem_top",
-        "side": "quark:block/glowshroom_stem",
-		"particle": "quark:block/glowshroom_stem"
-    }
-}

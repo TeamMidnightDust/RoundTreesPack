@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "dffeasts:block/dragonfruit_log_top",
+    "side": "dffeasts:block/dragonfruit_log"
+  }
+}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "wildnature:blocks/rosaceae/rosaceae_log_top",
-        "side": "wildnature:blocks/rosaceae/rosaceae_log",
-		"particle": "wildnature:blocks/rosaceae/rosaceae_log"
-    }
-}

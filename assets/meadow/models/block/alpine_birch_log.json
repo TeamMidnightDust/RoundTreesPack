@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "meadow:block/alpine_birch_log_top",
+        "side": "meadow:block/alpine_birch_log"
+    }
+}

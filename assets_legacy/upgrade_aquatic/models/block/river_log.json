@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "upgrade_aquatic:block/river_log_top",
-        "side": "upgrade_aquatic:block/river_log",
-		"particle": "upgrade_aquatic:block/river_log"
-    }
-}

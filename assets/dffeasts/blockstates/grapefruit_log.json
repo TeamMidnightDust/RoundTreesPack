@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "dffeasts:block/grapefruit_log"
+        },
+        "axis=z": {
+            "model": "dffeasts:block/grapefruit_log",
+            "x": 90,
+            "y": 180
+        },
+        "axis=x": {
+            "model": "dffeasts:block/grapefruit_log",
+            "x": 90,
+            "y": 90,
+            "z": 90
+        }
+    }
+}

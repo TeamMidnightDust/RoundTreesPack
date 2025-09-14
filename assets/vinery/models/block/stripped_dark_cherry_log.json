@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "vinery:block/stripped_dark_cherry_log_top",
+        "side": "vinery:block/stripped_dark_cherry_log_side"
+    }
+}

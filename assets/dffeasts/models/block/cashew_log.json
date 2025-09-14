@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "dffeasts:block/cashew_log_top",
+        "side": "dffeasts:block/cashew_log"
+    }
+}
