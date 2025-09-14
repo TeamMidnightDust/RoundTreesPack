@@ -168,7 +168,7 @@ def zipdir(path, ziph):
                                        os.path.join(path, '..')))
 
 def makeZip(filename):
-    with zipfile.ZipFile(filename, 'w', zipfile.ZIP_DEFLATED) as zipf:
+    with zipfile.ZipFile(filename, 'w', zipfile.ZIP_DEFLATED, compresslevel=9) as zipf:
         zipdir('assets/', zipf)
         zipf.write('pack.mcmeta')
         zipf.write('pack.png')
