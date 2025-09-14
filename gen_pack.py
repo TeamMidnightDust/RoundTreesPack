@@ -11,6 +11,9 @@ import shutil
 import time
 from distutils.dir_util import copy_tree
 
+import src.json_utils
+from src.json_utils import dumpJson, minifyJsonFiles, minify
+
 # Utility functions
 def printGreen(out): print("\033[92m{}\033[00m".format(out))
 def printCyan(out): print("\033[96m{}\033[00m" .format(out))
@@ -20,6 +23,8 @@ def autoGen(jsonData, args):
     print("Generating assets...")
     if (os.path.exists("./assets")): shutil.rmtree("./assets")
     copy_tree("./base/assets/", "./assets/")
+    if minify: minifyJsonFiles()
+
     filecount = 0
     unpackMods()
     scanModsForLogs()
@@ -103,7 +108,7 @@ def generateBlockstateAndModel(mod_namespace, block_name, texture_end, texture_s
 
     # Write blockstate file
     with open(block_state_file, "w") as f:
-        json.dump(block_state_data, f, indent=4)
+        dumpJson(block_state_data, f)
 
 
     # Create models folder if it doesn't exist already
@@ -131,7 +136,7 @@ def generateBlockstateAndModel(mod_namespace, block_name, texture_end, texture_s
             }
         }
     with open(block_model_file, "w") as f:
-        json.dump(block_model_data, f, indent=4)
+        dumpJson(block_model_data, f)
 
 def generateItemModel(mod_namespace, block_name):
     # Create models folder if it doesn't exist already
@@ -143,7 +148,7 @@ def generateItemModel(mod_namespace, block_name):
         "parent": f"{mod_namespace}:block/{block_name}1"
     }
     with open(item_model_file, "w") as f:
-        json.dump(item_model_data, f, indent=4)
+        dumpJson(item_model_data, f)
 
 def writeMetadata(args):
     edition = args.edition
@@ -181,10 +186,12 @@ if __name__ == '__main__':
 
     parser.add_argument('version', type=str)
     parser.add_argument('edition', nargs="*", type=str, default="§cCustom Edition", help="Define your edition name")
+    parser.add_argument('--minify', '-m', action='store_true', help="Minify all JSON output files")
     args = parser.parse_args()
 
     print(args)
     print()
+    if args.minify: src.json_utils.minify = True
 
     # Loads overrides from the json file
     f = open('./input/overrides.json')
