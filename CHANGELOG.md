@@ -1,0 +1,30 @@
+- Full rewrite
+  - Now generated via Python script!
+- Optimized round log model
+- Adjusted model to avoid overlap with buttons and signs
+- Support Pale Oak logs
+- Compatibility with the following mods:
+  - The Aether
+  - Atmospheric
+  - Autumnity
+  - Blockus
+  - Croptopia
+  - Endergetic
+  - Nature's Aura
+  - Silent Gear
+  - Terrestria
+  - Traverse
+  - Upgrade Aquatic
+  - Woods and Mires
+  - Botania
+  - Cultural Delights
+  - Fortuituous Feasts
+  - Hibernal Herbs
+  - Cluttered
+  - Promenade
+  - Hellion's Sniffer+
+  - Terraqueous
+  - [Let's Do] Vinery
+  - [Let's Do] Blooming Nature
+  - [Let's Do] Meadow
+  - ... and many more!
