@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "byg:block/withering_oak_log_top",
-        "side": "byg:block/withering_oak_log",
-		"particle": "byg:block/withering_oak_log"
-    }
-}

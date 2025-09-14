@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "lint:block/features/mystical_tree/mystical_log_top",
-        "side": "lint:block/features/mystical_tree/mystical_log",
-		"particle": "lint:block/features/mystical_tree/mystical_log"
-    }
-}

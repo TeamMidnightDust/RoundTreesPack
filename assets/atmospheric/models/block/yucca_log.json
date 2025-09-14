@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "atmospheric:block/yucca_log_top",
+        "side": "atmospheric:block/yucca_log"
+    }
+}

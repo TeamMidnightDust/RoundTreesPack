@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "environmental:block/stripped_willow_log_top",
-        "side": "environmental:block/stripped_willow_log",
-		"particle": "environmental:block/stripped_willow_log"
-    }
-}

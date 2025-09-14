@@ -1,7 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "minecraft:block/mushroom_stem_inventory_top",
-        "side": "minecraft:block/mushroom_stem_inventory"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "mubble:block/scarlet_log/top",
-        "side": "mubble:block/scarlet_log/side",
-		"particle": "mubble:block/scarlet_log/side"
-    }
-}

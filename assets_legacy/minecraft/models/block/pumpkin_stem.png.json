@@ -1,7 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "minecraft:block/pumpkin_stem.png_top",
-        "side": "minecraft:block/pumpkin_stem.png"
-    }
-}

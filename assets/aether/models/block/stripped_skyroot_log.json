@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "aether:block/natural/stripped_skyroot_log_top",
+        "side": "aether:block/natural/stripped_skyroot_log"
+    }
+}

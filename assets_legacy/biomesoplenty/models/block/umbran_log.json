@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "biomesoplenty:block/umbran_log_top",
-        "side": "biomesoplenty:block/umbran_log",
-		"particle": "biomesoplenty:block/umbran_log"
-    }
-}

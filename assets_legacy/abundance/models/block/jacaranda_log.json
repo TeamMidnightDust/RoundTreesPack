@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "abundance:block/jacaranda_log_top",
-        "side": "abundance:block/jacaranda_log",
-		"particle": "abundance:block/jacaranda_log"
-    }
-}

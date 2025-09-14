@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "endergetic:block/poise_stem_top",
+        "side": "endergetic:block/poise_stem"
+    }
+}

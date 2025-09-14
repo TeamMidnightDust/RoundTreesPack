@@ -1,0 +1,7 @@
+{
+  "parent": "terraform:block/small_log",
+  "textures": {
+    "particle": "terrestria:block/sakura_log",
+    "side": "terrestria:block/sakura_log"
+  }
+}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "byg:block/bulbis/stripped_log_top",
-        "side": "byg:block/bulbis/stripped_log",
-		"particle": "byg:block/bulbis/stripped_log"
-    }
-}

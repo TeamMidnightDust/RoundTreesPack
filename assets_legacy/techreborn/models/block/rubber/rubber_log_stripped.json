@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "techreborn:block/stripped_rubber_log_top",
-        "side": "techreborn:block/stripped_rubber_log_side",
-		"particle": "techreborn:block/stripped_rubber_log_side"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "biomesoplenty:block/jacaranda_log_top",
-        "side": "biomesoplenty:block/jacaranda_log",
-		"particle": "biomesoplenty:block/jacaranda_log"
-    }
-}

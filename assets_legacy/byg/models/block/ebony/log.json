@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "byg:block/ebony/log_top",
-        "side": "byg:block/ebony/log",
-		"particle": "byg:block/ebony/log"
-    }
-}

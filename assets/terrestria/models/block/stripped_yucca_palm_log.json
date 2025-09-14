@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "terrestria:stripped_yucca_palm_log_top",
+        "side": "terrestria:block/stripped_yucca_palm_log"
+    }
+}

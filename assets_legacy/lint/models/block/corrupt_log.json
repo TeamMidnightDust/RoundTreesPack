@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "lint:block/features/corrupt_tree/corrupt_log_top",
-        "side": "lint:block/features/corrupt_tree/corrupt_log",
-		"particle": "lint:block/features/corrupt_tree/corrupt_log"
-    }
-}

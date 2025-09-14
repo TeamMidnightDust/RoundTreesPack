@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "queks_end:block/stripped_end_log_top",
-        "side": "queks_end:block/stripped_end_log",
-		"particle": "queks_end:block/stripped_end_log"
-    }
-}

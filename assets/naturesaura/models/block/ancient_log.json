@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "naturesaura:block/ancient_log_top",
+        "side": "naturesaura:block/ancient_log"
+    }
+}

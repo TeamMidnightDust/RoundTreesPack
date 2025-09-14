@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "woods_and_mires:block/stripped_pine_log"
+        },
+        "axis=z": {
+            "model": "woods_and_mires:block/stripped_pine_log",
+            "x": 90,
+            "y": 180
+        },
+        "axis=x": {
+            "model": "woods_and_mires:block/stripped_pine_log",
+            "x": 90,
+            "y": 90,
+            "z": 90
+        }
+    }
+}

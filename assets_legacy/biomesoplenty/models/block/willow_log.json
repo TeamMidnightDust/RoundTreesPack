@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "biomesoplenty:block/willow_log_top",
-        "side": "biomesoplenty:block/willow_log",
-		"particle": "biomesoplenty:block/willow_log"
-    }
-}

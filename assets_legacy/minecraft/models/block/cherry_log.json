@@ -1,7 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "minecraft:block/cherry_log_top",
-        "side": "minecraft:block/cherry_log"
-    }
-}

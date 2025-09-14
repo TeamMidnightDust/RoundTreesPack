@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "abundance:block/stripped_redbud_log_top",
-        "side": "abundance:block/stripped_redbud_log",
-		"particle": "abundance:block/stripped_redbud_log"
-    }
-}

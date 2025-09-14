@@ -1,7 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "minecraft:block/system.png_top",
-        "side": "minecraft:block/system.png"
-    }
-}

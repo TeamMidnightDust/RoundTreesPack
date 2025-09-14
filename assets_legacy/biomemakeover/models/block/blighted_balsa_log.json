@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "biomemakeover:block/blighted_balsa_log_top",
-        "side": "biomemakeover:block/blighted_balsa_log",
-		"particle": "biomemakeover:block/blighted_balsa_log"
-    }
-}

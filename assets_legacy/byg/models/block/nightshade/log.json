@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "byg:block/nightshade/log_top",
-        "side": "byg:block/nightshade/log",
-		"particle": "byg:block/nightshade/log"
-    }
-}

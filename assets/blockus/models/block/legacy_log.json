@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "blockus:block/legacy_log_top",
+        "side": "blockus:block/legacy_log"
+    }
+}

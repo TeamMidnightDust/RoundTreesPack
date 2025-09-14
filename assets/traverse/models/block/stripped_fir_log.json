@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "traverse:block/stripped_fir_log_top",
+        "side": "traverse:block/stripped_fir_log"
+    }
+}

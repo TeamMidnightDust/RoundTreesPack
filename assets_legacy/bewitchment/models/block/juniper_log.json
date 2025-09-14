@@ -1,7 +1,0 @@
-{
-  "parent": "block/log",
-  "textures": {
-    "top": "bewitchment:block/juniper_log_top",
-    "side": "bewitchment:block/juniper_log"
-  }
-}

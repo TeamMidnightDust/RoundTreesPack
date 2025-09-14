@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "silentgear:block/stripped_netherwood_log"
+        },
+        "axis=z": {
+            "model": "silentgear:block/stripped_netherwood_log",
+            "x": 90,
+            "y": 180
+        },
+        "axis=x": {
+            "model": "silentgear:block/stripped_netherwood_log",
+            "x": 90,
+            "y": 90,
+            "z": 90
+        }
+    }
+}

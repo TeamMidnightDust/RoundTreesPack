@@ -1,8 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "sakurarosea:blocks/stripped_sakura_log_top",
-        "side": "sakurarosea:blocks/stripped_sakura_log",
-		"particle": "sakurarosea:blocks/stripped_sakura_log"
-    }
-}
