@@ -5,12 +5,14 @@
         },
         "axis=z": {
             "model": "bewitchment:block/dragons_blood_log",
-            "x": 90
+            "x": 90,
+            "y": 180
         },
         "axis=x": {
             "model": "bewitchment:block/dragons_blood_log",
             "x": 90,
-            "y": 90
+            "y": 90,
+            "z": 90
         }
     }
 }

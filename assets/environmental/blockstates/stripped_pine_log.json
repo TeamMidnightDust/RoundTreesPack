@@ -5,12 +5,14 @@
         },
         "axis=z": {
             "model": "environmental:block/stripped_pine_log",
-            "x": 90
+            "x": 90,
+            "y": 180
         },
         "axis=x": {
             "model": "environmental:block/stripped_pine_log",
             "x": 90,
-            "y": 90
+            "y": 90,
+            "z": 90
         }
     }
 }

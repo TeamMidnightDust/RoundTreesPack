@@ -5,12 +5,14 @@
         },
         "axis=z": {
             "model": "betterend:block/mossy_glowshroom_stripped_log",
-            "x": 90
+            "x": 90,
+            "y": 180
         },
         "axis=x": {
             "model": "betterend:block/mossy_glowshroom_stripped_log",
             "x": 90,
-            "y": 90
+            "y": 90,
+            "z": 90
         }
     }
 }

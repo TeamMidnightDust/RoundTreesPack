@@ -5,12 +5,14 @@
         },
         "axis=z": {
             "model": "deeperdarker:block/enriched_echo_log",
-            "x": 90
+            "x": 90,
+            "y": 180
         },
         "axis=x": {
             "model": "deeperdarker:block/enriched_echo_log",
             "x": 90,
-            "y": 90
+            "y": 90,
+            "z": 90
         }
     }
 }

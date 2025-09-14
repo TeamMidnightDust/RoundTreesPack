@@ -5,12 +5,14 @@
         },
         "axis=z": {
             "model": "biomeswevegone:block/stripped_witch_hazel_log",
-            "x": 90
+            "x": 90,
+            "y": 180
         },
         "axis=x": {
             "model": "biomeswevegone:block/stripped_witch_hazel_log",
             "x": 90,
-            "y": 90
+            "y": 90,
+            "z": 90
         }
     }
 }

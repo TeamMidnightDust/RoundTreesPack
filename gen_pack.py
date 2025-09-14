@@ -70,8 +70,8 @@ def generateBlockstateAndModel(mod_namespace, block_name):
     block_state_data = {
         "variants": {
             "axis=y":  { "model": f"{mod_namespace}:block/{block_name}" },
-            "axis=z":   { "model": f"{mod_namespace}:block/{block_name}", "x": 90 },
-            "axis=x":   { "model": f"{mod_namespace}:block/{block_name}", "x": 90, "y": 90 }
+            "axis=z":   { "model": f"{mod_namespace}:block/{block_name}", "x": 90, "y": 180 },
+            "axis=x":   { "model": f"{mod_namespace}:block/{block_name}", "x": 90, "y": 90, "z": 90 }
         }
     }
 

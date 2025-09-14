@@ -5,12 +5,14 @@
         },
         "axis=z": {
             "model": "ecologics:block/stripped_coconut_log",
-            "x": 90
+            "x": 90,
+            "y": 180
         },
         "axis=x": {
             "model": "ecologics:block/stripped_coconut_log",
             "x": 90,
-            "y": 90
+            "y": 90,
+            "z": 90
         }
     }
 }
