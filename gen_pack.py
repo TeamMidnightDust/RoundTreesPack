@@ -185,7 +185,7 @@ if __name__ == '__main__':
                     epilog='Feel free to ask for help at http://discord.midnightdust.eu/')
 
     parser.add_argument('version', type=str)
-    parser.add_argument('edition', nargs="*", type=str, default="§cCustom Edition", help="Define your edition name")
+    parser.add_argument('edition', nargs="*", type=str, default="", help="Define your edition name")
     parser.add_argument('--minify', '-m', action='store_true', help="Minify all JSON output files")
     args = parser.parse_args()
 
