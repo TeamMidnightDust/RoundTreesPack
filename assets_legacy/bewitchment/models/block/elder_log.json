@@ -1,0 +1,7 @@
+{
+  "parent": "block/log",
+  "textures": {
+    "top": "bewitchment:block/elder_log_top",
+    "side": "bewitchment:block/elder_log"
+  }
+}

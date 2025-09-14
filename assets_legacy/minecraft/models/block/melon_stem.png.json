@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "minecraft:block/melon_stem.png_top",
+        "side": "minecraft:block/melon_stem.png"
+    }
+}

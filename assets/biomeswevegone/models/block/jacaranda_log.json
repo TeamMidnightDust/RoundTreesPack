@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "biomeswevegone:block/jacaranda_log_top",
+        "side": "biomeswevegone:block/jacaranda_log"
+    }
+}

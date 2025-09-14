@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 13,
-    "description": "§2Version 7.1 §aby Motschen §e©Motschen 2023 | MIT Licence"
+    "pack_format": 15,
+    "supported_formats": [15, 99],
+    "description": "§2Version 8.0 §a§cCustom Edition\n§e©Motschen 2025 | MIT Licence"
   }
 }

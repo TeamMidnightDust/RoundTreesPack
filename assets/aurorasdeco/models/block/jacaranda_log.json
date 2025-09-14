@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "aurorasdeco:block/jacaranda_log_top",
+        "side": "aurorasdeco:block/jacaranda_log"
+    }
+}

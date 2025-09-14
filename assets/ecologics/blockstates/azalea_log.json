@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "ecologics:block/azalea_log"
+        },
+        "axis=z": {
+            "model": "ecologics:block/azalea_log",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "ecologics:block/azalea_log",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

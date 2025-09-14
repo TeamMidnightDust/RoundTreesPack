@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "nethers_exoticism:block/stripped_rambutan_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "nethers_exoticism:block/stripped_rambutan_log"
+    },
+    "axis=z": {
+      "model": "nethers_exoticism:block/stripped_rambutan_log",
+      "x": 90
+    }
+  }
+}

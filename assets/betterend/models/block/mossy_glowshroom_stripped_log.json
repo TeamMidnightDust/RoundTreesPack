@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "betterend:block/mossy_glowshroom_stripped_log_top",
+        "side": "betterend:block/mossy_glowshroom_stripped_log"
+    }
+}

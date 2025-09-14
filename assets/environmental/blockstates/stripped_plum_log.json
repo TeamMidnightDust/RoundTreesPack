@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "environmental:block/stripped_plum_log"
+        },
+        "axis=z": {
+            "model": "environmental:block/stripped_plum_log",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "environmental:block/stripped_plum_log",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

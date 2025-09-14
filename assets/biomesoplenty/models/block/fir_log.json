@@ -2,7 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "biomesoplenty:block/fir_log_top",
-        "side": "biomesoplenty:block/fir_log",
-		"particle": "biomesoplenty:block/fir_log"
+        "side": "biomesoplenty:block/fir_log"
     }
 }

@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "regions_unexplored:block/stripped_small_oak_log_top",
+        "side": "regions_unexplored:block/stripped_small_oak_log"
+    }
+}

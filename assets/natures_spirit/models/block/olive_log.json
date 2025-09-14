@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "natures_spirit:block/olive_log_top",
+        "side": "natures_spirit:block/olive_log"
+    }
+}

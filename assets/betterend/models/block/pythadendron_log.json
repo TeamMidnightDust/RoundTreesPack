@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "betterend:block/pythadendron_log_top",
+        "side": "betterend:block/pythadendron_log"
+    }
+}

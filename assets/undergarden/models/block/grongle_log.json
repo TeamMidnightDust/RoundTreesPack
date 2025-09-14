@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "undergarden:block/grongle_log_top",
+        "side": "undergarden:block/grongle_log"
+    }
+}

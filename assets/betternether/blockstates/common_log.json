@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "betternether:block/common_log"
+        },
+        "axis=z": {
+            "model": "betternether:block/common_log",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "betternether:block/common_log",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

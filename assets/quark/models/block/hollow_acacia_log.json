@@ -1,0 +1,8 @@
+{
+    "parent": "block/hollow_log",
+    "textures": {
+        "top": "quark:block/acacia_log_top",
+        "side": "quark:block/acacia_log",
+        "inner": "quark:block/stripped_acacia_log"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "quark:block/blossom_log_top",
+        "side": "quark:block/blossom_log"
+    }
+}

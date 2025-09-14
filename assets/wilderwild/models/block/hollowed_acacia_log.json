@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "wilderwild:block/hollowed_acacia_log_top",
+        "side": "wilderwild:block/hollowed_acacia_log"
+    }
+}

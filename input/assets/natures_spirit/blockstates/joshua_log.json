@@ -1,0 +1,441 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "natures_spirit:block/joshua_log_side"
+      },
+      "when": {
+        "north": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "natures_spirit:block/joshua_log_side",
+        "y": 90
+      },
+      "when": {
+        "east": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "natures_spirit:block/joshua_log_side",
+        "y": 180
+      },
+      "when": {
+        "south": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "natures_spirit:block/joshua_log_side",
+        "y": 270
+      },
+      "when": {
+        "west": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "natures_spirit:block/joshua_log_side",
+        "x": 270
+      },
+      "when": {
+        "up": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "natures_spirit:block/joshua_log_side",
+        "x": 90
+      },
+      "when": {
+        "down": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside"
+      },
+      "when": {
+        "north": "false",
+        "up": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside"
+      },
+      "when": {
+        "north": "false",
+        "down": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside_horizontal"
+      },
+      "when": {
+        "north": "false",
+        "down": "false",
+        "up": "false"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside"},
+      "when": {
+        "north": "false",
+        "up": "true",
+        "down": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside_end"
+      },
+      "when": {
+        "north": "false",
+        "down": "false",
+        "up": "false",
+        "south": "true",
+        "east": "false",
+        "west": "false"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside"
+      },
+      "when": {
+        "west": "false",
+        "up": "false",
+        "down": "false",
+        "east": "false",
+        "south": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "y": 90
+      },
+      "when": {
+        "east": "false",
+        "down": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "y": 90
+      },
+      "when": {
+        "east": "false",
+        "up": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "natures_spirit:block/joshua_log_noside_horizontal",
+        "y": 90
+      },
+      "when": {
+        "east": "false",
+        "up": "false",
+        "down": "false"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "y": 90
+      },
+      "when": {
+        "west": "false",
+        "up": "false",
+        "down": "false",
+        "east": "false",
+        "south": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "y": 90
+      },
+      "when": {
+        "east": "false",
+        "up": "true",
+        "down": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside_end",
+        "y": 90
+      },
+      "when": {
+        "north": "false",
+        "down": "false",
+        "up": "false",
+        "south": "false",
+        "east": "false",
+        "west": "true"
+      }
+    },
+    {
+      "apply":
+        {
+          "model": "natures_spirit:block/joshua_log_noside",
+          "y": 180
+        },
+      "when": {
+        "south": "false",
+        "up": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "y": 180
+      },
+      "when": {
+        "south": "false",
+        "down": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside_horizontal",
+        "y": 180
+      },
+      "when": {
+        "south": "false",
+        "down": "false",
+        "up": "false"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "y": 180
+      },
+      "when": {
+        "west": "false",
+        "up": "false",
+        "down": "false",
+        "east": "false",
+        "south": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "y": 180
+      },
+      "when": {
+        "south": "false",
+        "up": "true",
+        "down": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside_end",
+        "y": 180
+      },
+      "when": {
+        "north": "true",
+        "down": "false",
+        "up": "false",
+        "south": "false",
+        "east": "false",
+        "west": "false"
+      }
+    },
+    {
+      "apply":
+        {
+          "model": "natures_spirit:block/joshua_log_noside",
+          "y": 270
+        },
+      "when": {
+        "west": "false",
+        "down": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "y": 270
+      },
+      "when": {
+        "west": "false",
+        "up": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside_horizontal",
+        "y": 270
+      },
+      "when": {
+        "west": "false",
+        "up": "false",
+        "down": "false"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "y": 270
+      },
+      "when": {
+        "west": "false",
+        "up": "false",
+        "down": "false",
+        "east": "false",
+        "south": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside_end",
+        "y": 270
+      },
+      "when": {
+        "north": "false",
+        "down": "false",
+        "up": "false",
+        "south": "false",
+        "east": "true",
+        "west": "false"
+      }
+    },
+    {
+      "apply":
+        {
+          "model": "natures_spirit:block/joshua_log_noside",
+          "x": 270
+        },
+      "when": {
+        "up": "false",
+        "west": "false",
+        "east": "false"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "x": 270,
+        "y": 270
+      },
+      "when": {
+        "up": "false",
+        "west": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "x": 270,
+        "y": 270
+      },
+      "when": {
+        "up": "false",
+        "east": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside_end",
+        "x": 270
+      },
+      "when": {
+        "up": "false",
+        "west": "false",
+        "east": "false",
+        "south": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "x": 90,
+        "y": 90
+      },
+      "when": {
+        "down": "false",
+        "east": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "x": 90,
+        "y": 90
+      },
+      "when": {
+        "down": "false",
+        "west": "true"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside",
+        "x": 90
+      },
+      "when": {
+        "down": "false",
+        "west": "false",
+        "east": "false"
+      }
+    },
+    {
+      "apply":
+      {
+        "model": "natures_spirit:block/joshua_log_noside_end",
+        "x": 90
+      },
+      "when": {
+        "down": "false",
+        "west": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false"
+      }
+    }
+  ]
+}

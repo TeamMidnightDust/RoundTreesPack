@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "minecraft:block/small_dripleaf_stem_bottom.png"
+        },
+        "axis=z": {
+            "model": "minecraft:block/small_dripleaf_stem_bottom.png",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "minecraft:block/small_dripleaf_stem_bottom.png",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

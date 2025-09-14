@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "betterend:block/end_lotus_stripped_log_top",
+        "side": "betterend:block/end_lotus_stripped_log"
+    }
+}

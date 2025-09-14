@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "biomeswevegone:block/green_enchanted_log"
+        },
+        "axis=z": {
+            "model": "biomeswevegone:block/green_enchanted_log",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "biomeswevegone:block/green_enchanted_log",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "minecraft:block/pumpkin_stem_stage2_top",
+        "side": "minecraft:block/pumpkin_stem_stage2"
+    }
+}

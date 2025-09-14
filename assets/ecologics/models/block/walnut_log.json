@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "ecologics:block/walnut_log_top",
+        "side": "ecologics:block/walnut_log"
+    }
+}

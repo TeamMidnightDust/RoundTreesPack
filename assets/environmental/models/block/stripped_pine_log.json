@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "environmental:block/stripped_pine_log_top",
+        "side": "environmental:block/stripped_pine_log"
+    }
+}

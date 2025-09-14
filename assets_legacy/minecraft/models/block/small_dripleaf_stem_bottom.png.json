@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "minecraft:block/small_dripleaf_stem_bottom.png_top",
+        "side": "minecraft:block/small_dripleaf_stem_bottom.png"
+    }
+}

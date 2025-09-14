@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "quark:block/hollow_spruce_log"
+        },
+        "axis=z": {
+            "model": "quark:block/hollow_spruce_log",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "quark:block/hollow_spruce_log",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "environmental:block/plum_log_top",
+        "side": "environmental:block/plum_log"
+    }
+}

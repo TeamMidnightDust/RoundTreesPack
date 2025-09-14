@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "biomeswevegone:block/stripped_skyris_log_top",
+        "side": "biomeswevegone:block/stripped_skyris_log"
+    }
+}

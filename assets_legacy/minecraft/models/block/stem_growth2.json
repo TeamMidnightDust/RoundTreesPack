@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "minecraft:block/stem_growth2_top",
+        "side": "minecraft:block/stem_growth2"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/log",
+  "textures": {
+    "top":  "architects_palette:block/twisted_log_top",
+    "side": "architects_palette:block/twisted_log",
+    "particle": "architects_palette:block/twisted_log"
+  }
+}

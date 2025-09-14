@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "biomeswevegone:block/stripped_spirit_log"
+        },
+        "axis=z": {
+            "model": "biomeswevegone:block/stripped_spirit_log",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "biomeswevegone:block/stripped_spirit_log",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "architects_palette:block/salmon_log_top",
+        "side": "architects_palette:block/salmon_log"
+    }
+}

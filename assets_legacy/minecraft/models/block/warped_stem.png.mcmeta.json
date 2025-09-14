@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "minecraft:block/warped_stem.png.mcmeta_top",
+        "side": "minecraft:block/warped_stem.png.mcmeta"
+    }
+}

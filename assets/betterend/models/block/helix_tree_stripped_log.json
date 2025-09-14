@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "betterend:block/helix_tree_stripped_log_top",
+        "side": "betterend:block/helix_tree_stripped_log"
+    }
+}

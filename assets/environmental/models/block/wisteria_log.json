@@ -2,7 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "environmental:block/wisteria_log_top",
-        "side": "environmental:block/wisteria_log",
-		"particle": "environmental:block/wisteria_log"
+        "side": "environmental:block/wisteria_log"
     }
 }

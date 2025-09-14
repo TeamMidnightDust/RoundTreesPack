@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "phantasm:block/pream_log"
+        },
+        "axis=z": {
+            "model": "phantasm:block/pream_log",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "phantasm:block/pream_log",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

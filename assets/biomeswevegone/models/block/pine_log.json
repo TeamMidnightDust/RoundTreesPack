@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "biomeswevegone:block/pine_log_top",
+        "side": "biomeswevegone:block/pine_log"
+    }
+}

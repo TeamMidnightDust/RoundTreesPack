@@ -2,7 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "biomesoplenty:block/hellbark_log_top",
-        "side": "biomesoplenty:block/hellbark_log",
-		"particle": "biomesoplenty:block/hellbark_log"
+        "side": "biomesoplenty:block/hellbark_log"
     }
 }

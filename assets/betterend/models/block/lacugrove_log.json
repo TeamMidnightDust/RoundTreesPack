@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "betterend:block/lacugrove_log_top",
+        "side": "betterend:block/lacugrove_log"
+    }
+}

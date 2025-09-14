@@ -1,0 +1,8 @@
+{
+    "parent": "block/hollow_log",
+    "textures": {
+        "top": "quark:block/ancient_log_top",
+        "side": "quark:block/ancient_log",
+        "inner": "quark:block/stripped_ancient_log"
+    }
+}

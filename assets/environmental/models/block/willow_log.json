@@ -2,7 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "environmental:block/willow_log_top",
-        "side": "environmental:block/willow_log",
-		"particle": "environmental:block/willow_log"
+        "side": "environmental:block/willow_log"
     }
 }

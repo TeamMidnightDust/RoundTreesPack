@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "biomesoplenty:block/stripped_magic_log_top",
+        "side": "biomesoplenty:block/stripped_magic_log"
+    }
+}

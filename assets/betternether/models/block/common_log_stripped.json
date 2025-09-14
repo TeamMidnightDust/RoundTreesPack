@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "betternether:block/common_log_stripped_top",
+        "side": "betternether:block/common_log_stripped"
+    }
+}

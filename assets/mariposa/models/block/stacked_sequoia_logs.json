@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "mariposa:block/stacked_sequoia_logs_top",
+        "side": "mariposa:block/stacked_sequoia_logs"
+    }
+}

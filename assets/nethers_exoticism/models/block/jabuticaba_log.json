@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "nethers_exoticism:block/jabuticaba_log_top",
+        "side": "nethers_exoticism:block/jabuticaba_log"
+    }
+}

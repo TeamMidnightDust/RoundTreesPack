@@ -2,7 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "biomemakeover:block/stripped_blighted_balsa_log_top",
-        "side": "biomemakeover:block/stripped_blighted_balsa_log",
-		"particle": "biomemakeover:block/stripped_blighted_balsa_log"
+        "side": "biomemakeover:block/stripped_blighted_balsa_log"
     }
 }

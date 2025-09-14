@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "minecraft:block/crimson_stem_top.png"
+        },
+        "axis=z": {
+            "model": "minecraft:block/crimson_stem_top.png",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "minecraft:block/crimson_stem_top.png",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

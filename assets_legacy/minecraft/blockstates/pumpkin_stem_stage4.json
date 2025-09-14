@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "minecraft:block/pumpkin_stem_stage4"
+        },
+        "axis=z": {
+            "model": "minecraft:block/pumpkin_stem_stage4",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "minecraft:block/pumpkin_stem_stage4",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

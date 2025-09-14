@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "mariposa:block/sequoia_log"
+        },
+        "axis=z": {
+            "model": "mariposa:block/sequoia_log",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "mariposa:block/sequoia_log",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

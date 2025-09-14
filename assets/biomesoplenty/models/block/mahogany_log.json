@@ -2,7 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "biomesoplenty:block/mahogany_log_top",
-        "side": "biomesoplenty:block/mahogany_log",
-		"particle": "biomesoplenty:block/mahogany_log"
+        "side": "biomesoplenty:block/mahogany_log"
     }
 }

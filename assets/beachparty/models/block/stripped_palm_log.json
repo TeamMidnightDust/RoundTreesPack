@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "beachparty:block/stripped_palm_log_top",
+        "side": "beachparty:block/stripped_palm_log"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "ecologics:block/stripped_coconut_log_top",
+        "side": "ecologics:block/stripped_coconut_log"
+    }
+}

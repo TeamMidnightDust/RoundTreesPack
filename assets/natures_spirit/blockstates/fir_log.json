@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "natures_spirit:block/fir_log"
+        },
+        "axis=z": {
+            "model": "natures_spirit:block/fir_log",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "natures_spirit:block/fir_log",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

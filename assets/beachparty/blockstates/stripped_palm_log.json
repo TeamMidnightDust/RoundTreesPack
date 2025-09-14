@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "beachparty:block/stripped_palm_log"
+        },
+        "axis=z": {
+            "model": "beachparty:block/stripped_palm_log",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "beachparty:block/stripped_palm_log",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "minecraft:block/melon_stem"
+        },
+        "axis=z": {
+            "model": "minecraft:block/melon_stem",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "minecraft:block/melon_stem",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

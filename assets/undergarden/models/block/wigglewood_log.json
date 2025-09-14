@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "undergarden:block/wigglewood_log_top",
+        "side": "undergarden:block/wigglewood_log"
+    }
+}

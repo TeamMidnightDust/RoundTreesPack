@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "biomeswevegone:block/white_mangrove_log_top",
+        "side": "biomeswevegone:block/white_mangrove_log"
+    }
+}

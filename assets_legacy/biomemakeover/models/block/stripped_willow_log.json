@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/log",
+  "textures": {
+    "top": "biomemakeover:block/stripped_willow_log_top",
+    "side": "biomemakeover:block/stripped_willow_log"
+  }
+}

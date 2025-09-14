@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "aurorasdeco:block/flowering_azalea_log_top",
+        "side": "aurorasdeco:block/flowering_azalea_log"
+    }
+}

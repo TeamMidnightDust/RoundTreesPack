@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "betternether:block/mushroom_fir_log_top",
+        "side": "betternether:block/mushroom_fir_log"
+    }
+}

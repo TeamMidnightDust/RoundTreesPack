@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "minecraft:block/stem_growth0"
+        },
+        "axis=z": {
+            "model": "minecraft:block/stem_growth0",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "minecraft:block/stem_growth0",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

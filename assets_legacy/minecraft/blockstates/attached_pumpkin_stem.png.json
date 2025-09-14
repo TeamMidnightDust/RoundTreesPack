@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "minecraft:block/attached_pumpkin_stem.png"
+        },
+        "axis=z": {
+            "model": "minecraft:block/attached_pumpkin_stem.png",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "minecraft:block/attached_pumpkin_stem.png",
+            "x": 90,
+            "y": 90
+        }
+    }
+}
