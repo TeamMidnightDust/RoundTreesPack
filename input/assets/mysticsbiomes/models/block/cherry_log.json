@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "mysticsbiomes:block/cherry_log_top",
+    "side": "mysticsbiomes:block/cherry_log"
+  }
+}

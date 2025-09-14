@@ -2,6 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "betternether:block/mushroom_fir_stripped_log_top",
-        "side": "betternether:block/mushroom_fir_stripped_log"
+        "side": "betternether:block/mushroom_fir_stripped_log_side"
     }
 }

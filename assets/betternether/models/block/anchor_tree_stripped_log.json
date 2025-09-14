@@ -1,7 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "betternether:block/anchor_tree_stripped_log_top",
-        "side": "betternether:block/anchor_tree_stripped_log"
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "parent": "block/log",
-    "textures": {
-        "top": "techreborn:block/rubber_log_stripped_top",
-        "side": "techreborn:block/rubber_log_stripped"
-    }
-}

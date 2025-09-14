@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "chipped:block/jungle_log/reinforced_jungle_log_top",
+        "side": "chipped:block/jungle_log/reinforced_jungle_log"
+    }
+}

@@ -2,7 +2,7 @@
 	"credit": "made by Motschen",
 	"parent": "block/block",
 	"textures": {
-		"particle": "block/oak_log",
+		"particle": "#side",
 		"side": "block/oak_log",
 		"top": "block/oak_log_top"
 	},

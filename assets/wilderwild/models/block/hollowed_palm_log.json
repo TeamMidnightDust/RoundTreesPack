@@ -1,7 +1,7 @@
 {
     "parent": "block/log",
     "textures": {
-        "top": "wilderwild:block/hollowed_palm_log_top",
+        "top": "wilderwild:block/palm_log_top",
         "side": "wilderwild:block/hollowed_palm_log"
     }
 }

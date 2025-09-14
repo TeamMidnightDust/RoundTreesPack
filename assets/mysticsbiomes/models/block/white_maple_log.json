@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "mysticsbiomes:block/white_maple_log_top",
+        "side": "mysticsbiomes:block/white_maple_log"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "chipped:block/edge_cut_birch_log"
+        },
+        "axis=z": {
+            "model": "chipped:block/edge_cut_birch_log",
+            "x": 90,
+            "y": 180
+        },
+        "axis=x": {
+            "model": "chipped:block/edge_cut_birch_log",
+            "x": 90,
+            "y": 90,
+            "z": 90
+        }
+    }
+}

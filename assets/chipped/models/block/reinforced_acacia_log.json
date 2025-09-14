@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "chipped:block/acacia_log/reinforced_acacia_log_top",
+        "side": "chipped:block/acacia_log/reinforced_acacia_log"
+    }
+}

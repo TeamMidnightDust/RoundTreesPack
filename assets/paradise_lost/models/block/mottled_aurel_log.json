@@ -2,6 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "paradise_lost:block/mottled_aurel_log_top",
-        "side": "paradise_lost:block/mottled_aurel_log"
+        "side": "paradise_lost:block/mottled_aurel_log_side"
     }
 }

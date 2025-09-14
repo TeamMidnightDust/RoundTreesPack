@@ -2,6 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "betterend:block/helix_tree_log_top",
-        "side": "betterend:block/helix_tree_log"
+        "side": "betterend:block/helix_tree_log_side"
     }
 }

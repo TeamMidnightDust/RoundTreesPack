@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "natures_spirit:block/ghaf_log_top",
+    "side": "natures_spirit:block/ghaf_log"
+  }
+}

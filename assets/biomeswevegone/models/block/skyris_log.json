@@ -1,7 +1,7 @@
 {
     "parent": "block/log",
     "textures": {
-        "top": "biomeswevegone:block/skyris_log_top",
-        "side": "biomeswevegone:block/skyris_log"
+        "top": "biomeswevegone:block/skyris/log_top",
+        "side": "biomeswevegone:block/skyris/log"
     }
 }

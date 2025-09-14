@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "chipped:block/center_cut_acacia_log"
+        },
+        "axis=z": {
+            "model": "chipped:block/center_cut_acacia_log",
+            "x": 90,
+            "y": 180
+        },
+        "axis=x": {
+            "model": "chipped:block/center_cut_acacia_log",
+            "x": 90,
+            "y": 90,
+            "z": 90
+        }
+    }
+}

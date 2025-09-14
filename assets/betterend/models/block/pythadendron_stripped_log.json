@@ -2,6 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "betterend:block/pythadendron_stripped_log_top",
-        "side": "betterend:block/pythadendron_stripped_log"
+        "side": "betterend:block/pythadendron_stripped_log_side"
     }
 }

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nethers_exoticism:blocks/stripped_jaboticaba_log_top",
+    "up": "nethers_exoticism:blocks/stripped_jaboticaba_log_top",
+    "north": "nethers_exoticism:blocks/stripped_jaboticaba_log",
+    "east": "nethers_exoticism:blocks/stripped_jaboticaba_log",
+    "south": "nethers_exoticism:blocks/stripped_jaboticaba_log",
+    "west": "nethers_exoticism:blocks/stripped_jaboticaba_log",
+    "particle": "nethers_exoticism:blocks/stripped_jaboticaba_log_top"
+  },
+  "render_type": "solid"
+}

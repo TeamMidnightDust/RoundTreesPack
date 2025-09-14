@@ -1,0 +1,7 @@
+{
+	"parent": "block/hollow_log",
+	"textures": {
+	  "top": "#end",
+		"particle": "#side"
+	}
+}

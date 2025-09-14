@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "chipped:block/cherry_log/firewood_cherry_log_top",
+        "side": "chipped:block/cherry_log/firewood_cherry_log"
+    }
+}

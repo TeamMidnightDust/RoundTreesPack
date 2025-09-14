@@ -2,6 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "betterend:block/jellyshroom_stripped_log_top",
-        "side": "betterend:block/jellyshroom_stripped_log"
+        "side": "betterend:block/jellyshroom_stripped_log_side"
     }
 }

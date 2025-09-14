@@ -1,7 +1,7 @@
 {
     "parent": "block/log",
     "textures": {
-        "top": "undergarden:block/stripped_grongle_log_top",
-        "side": "undergarden:block/stripped_grongle_log"
+        "top": "undergarden:block/stripped_grongle_log_end",
+        "side": "undergarden:block/stripped_grongle_log_side"
     }
 }

@@ -1,7 +1,7 @@
 {
     "parent": "block/log",
     "textures": {
-        "top": "wilderwild:block/stripped_hollowed_jungle_log_top",
+        "top": "minecraft:block/stripped_jungle_log_top",
         "side": "wilderwild:block/stripped_hollowed_jungle_log"
     }
 }

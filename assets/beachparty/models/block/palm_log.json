@@ -2,6 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "beachparty:block/palm_log_top",
-        "side": "beachparty:block/palm_log"
+        "side": "beachparty:block/palm_log_side"
     }
 }

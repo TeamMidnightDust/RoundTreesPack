@@ -26,17 +26,39 @@ def autoGen(jsonData, args):
 
     for root, dirs, files in os.walk("./input/assets"):
         for infile in files:
-            if (len(root.split("/")) > 3) and root.endswith("blockstates"):
+            if (len(root.split("/")) > 3) and root.endswith("models/block"):
                 namespace = root.split("/")[3]
                 block_id = infile.replace(".json", "")
                 print(namespace+":"+block_id)
+                textures = readTextures(root, infile, namespace, block_id)
 
-                generateBlockstateAndModel(namespace, block_id)
+                generateBlockstateAndModel(namespace, block_id, textures["end"], textures["side"])
                 filecount += 1
     # End of autoGen
     print()
     cleanupMods()
     printCyan("Processed {} log blocks".format(filecount))
+
+def readTextures(root, infile, namespace, block_id) -> dict[str, str]:
+    with open(os.path.join(root, infile), "r") as rf:
+        textures = json.load(rf)["textures"]
+        texture_end = None
+        texture_side = None
+        for key in ["end", "up"]:
+            if key in textures:
+                texture_end = textures[key]
+                break
+        for key in ["side", "north"]:
+            if key in textures:
+                texture_side = textures[key]
+                break
+        if texture_end == None:
+            printOverride("Could not determine top texture in base model, using fallback")
+            texture_end = f"{namespace}:{block_id}_top"
+        if texture_side == None:
+            printOverride("Could not determine side texture in base model, using fallback")
+            texture_side = f"{namespace}:{block_id}"
+        return {"end": texture_end, "side": texture_side}
 
 def unpackMods():
     for root, dirs, files in os.walk("./input/mods"):
@@ -56,14 +78,14 @@ def scanModsForLogs():
         for infile in files:
             if len(root.split("assets")) > 1:
                 assetpath = root.split("assets")[1][1:]
-                modid = assetpath.split("blockstates")[0].replace("/", "")
-                if "blockstates" in root and infile.endswith(".json") and "_log" in infile:
-                    print(f"Found log blockstate {assetpath}/{infile} in mod {modid}")
+                modid = assetpath.split("models/block")[0].replace("/", "")
+                if "models/block" in root and infile.endswith("_log.json"):
+                    print(f"Found log model {assetpath}/{infile} in mod {modid}")
                     inputfolder = os.path.join("./input/assets/", assetpath)
                     os.makedirs(inputfolder, exist_ok=True)
                     shutil.copyfile(os.path.join(root, infile), os.path.join(inputfolder, infile))
 
-def generateBlockstateAndModel(mod_namespace, block_name):
+def generateBlockstateAndModel(mod_namespace, block_name, texture_end, texture_side, texture_inner = None):
 
     # Create structure for blockstate file
     block_state_file = f"assets/{mod_namespace}/blockstates/{block_name}.json"
@@ -95,17 +117,17 @@ def generateBlockstateAndModel(mod_namespace, block_name):
         block_model_data = {
             "parent": "block/hollow_log",
             "textures": {
-                "top": f"{mod_namespace}:block/{block_name}_top",
-                "side": f"{mod_namespace}:block/{block_name}",
-                "inner": f"{mod_namespace}:block/stripped_{block_name}"
+                "top": texture_end,
+                "side": texture_side,
+                "inner": texture_inner
             }
         }
     else:
         block_model_data = {
             "parent": "block/log",
             "textures": {
-                "top": f"{mod_namespace}:block/{block_name}_top",
-                "side": f"{mod_namespace}:block/{block_name}"
+                "top": texture_end,
+                "side": texture_side
             }
         }
     with open(block_model_file, "w") as f:

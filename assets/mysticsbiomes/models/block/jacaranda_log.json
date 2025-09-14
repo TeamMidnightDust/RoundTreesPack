@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "mysticsbiomes:block/jacaranda_log_top",
+        "side": "mysticsbiomes:block/jacaranda_log"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "eternal_starlight:block/torreya_log_top",
+        "side": "eternal_starlight:block/torreya_log"
+    }
+}

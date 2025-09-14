@@ -1,8 +1,0 @@
-{
-    "parent": "block/hollow_log",
-    "textures": {
-        "top": "quark:block/azalea_log_top",
-        "side": "quark:block/azalea_log",
-        "inner": "quark:block/stripped_azalea_log"
-    }
-}

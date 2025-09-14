@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "enderscape:block/veiled_log_top",
+        "side": "enderscape:block/veiled_log"
+    }
+}

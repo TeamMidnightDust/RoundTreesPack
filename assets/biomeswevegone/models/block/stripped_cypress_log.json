@@ -1,7 +1,7 @@
 {
     "parent": "block/log",
     "textures": {
-        "top": "biomeswevegone:block/stripped_cypress_log_top",
-        "side": "biomeswevegone:block/stripped_cypress_log"
+        "top": "biomeswevegone:block/cypress/stripped_log_top",
+        "side": "biomeswevegone:block/cypress/stripped_log"
     }
 }

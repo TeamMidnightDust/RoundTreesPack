@@ -2,6 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "betternether:block/willow_log_top",
-        "side": "betternether:block/willow_log"
+        "side": "betternether:block/willow_bark"
     }
 }

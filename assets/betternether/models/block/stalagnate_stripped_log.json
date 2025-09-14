@@ -2,6 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "betternether:block/stalagnate_stripped_log_top",
-        "side": "betternether:block/stalagnate_stripped_log"
+        "side": "betternether:block/stalagnate_stripped_log_side"
     }
 }

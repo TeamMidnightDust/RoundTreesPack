@@ -1,7 +1,7 @@
 {
     "parent": "block/log",
     "textures": {
-        "top": "undergarden:block/smogstem_log_top",
-        "side": "undergarden:block/smogstem_log"
+        "top": "undergarden:block/smogstem_log_end",
+        "side": "undergarden:block/smogstem_log_side"
     }
 }

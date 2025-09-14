@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "chipped:block/sign_stripped_oak_log"
+        },
+        "axis=z": {
+            "model": "chipped:block/sign_stripped_oak_log",
+            "x": 90,
+            "y": 180
+        },
+        "axis=x": {
+            "model": "chipped:block/sign_stripped_oak_log",
+            "x": 90,
+            "y": 90,
+            "z": 90
+        }
+    }
+}

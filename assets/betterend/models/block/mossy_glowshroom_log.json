@@ -2,6 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "betterend:block/mossy_glowshroom_log_top",
-        "side": "betterend:block/mossy_glowshroom_log"
+        "side": "betterend:block/mossy_glowshroom_log_side"
     }
 }

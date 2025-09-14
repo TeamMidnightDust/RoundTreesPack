@@ -1,7 +1,7 @@
 {
     "parent": "block/log",
     "textures": {
-        "top": "nethers_exoticism:block/ramboutan_log_top",
-        "side": "nethers_exoticism:block/ramboutan_log"
+        "top": "nethers_exoticism:blocks/ramboutan_log_top",
+        "side": "nethers_exoticism:blocks/ramboutan_log"
     }
 }

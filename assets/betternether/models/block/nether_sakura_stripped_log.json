@@ -2,6 +2,6 @@
     "parent": "block/log",
     "textures": {
         "top": "betternether:block/nether_sakura_stripped_log_top",
-        "side": "betternether:block/nether_sakura_stripped_log"
+        "side": "betternether:block/nether_sakura_stripped_log_side"
     }
 }
