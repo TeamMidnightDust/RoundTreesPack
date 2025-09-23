@@ -1,7 +1,9 @@
 {
   "pack": {
     "pack_format": 15,
-    "supported_formats": [15, 99],
-    "description": "§2Version ${version} §a${edition}\n§e©Motschen ${year} | MIT Licence"
+    "supported_formats": [15, 255],
+    "min_format": 15,
+    "max_format": 255,
+    "description": "§2Version ${version}\n§e©Motschen ${year} | MIT Licence"
   }
 }
