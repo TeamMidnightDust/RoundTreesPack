@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "chipped:block/i_sign_stripped_oak_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

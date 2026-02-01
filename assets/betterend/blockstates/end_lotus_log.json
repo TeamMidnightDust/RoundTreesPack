@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "betterend:block/end_lotus_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "wilderwild:block/hollowed_baobab_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

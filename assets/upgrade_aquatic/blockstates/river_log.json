@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "upgrade_aquatic:block/river_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

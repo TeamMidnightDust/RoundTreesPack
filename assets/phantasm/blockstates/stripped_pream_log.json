@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "phantasm:block/stripped_pream_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

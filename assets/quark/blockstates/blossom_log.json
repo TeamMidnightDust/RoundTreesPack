@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "quark:block/blossom_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

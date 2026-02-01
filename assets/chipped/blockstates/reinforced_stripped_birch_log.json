@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "chipped:block/reinforced_stripped_birch_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "botania:block/glimmering_dreamwood_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "wilderwild:block/stripped_hollowed_acacia_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

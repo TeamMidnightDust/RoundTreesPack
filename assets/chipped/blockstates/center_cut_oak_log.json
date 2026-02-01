@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "chipped:block/center_cut_oak_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

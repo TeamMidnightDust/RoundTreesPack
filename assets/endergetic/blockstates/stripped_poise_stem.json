@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "endergetic:block/stripped_poise_stem",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

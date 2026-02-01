@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "biomeswevegone:block/stripped_jacaranda_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

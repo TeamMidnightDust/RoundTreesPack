@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "croptopia:block/stripped_cinnamon_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

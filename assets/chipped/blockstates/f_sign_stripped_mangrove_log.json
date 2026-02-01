@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "chipped:block/f_sign_stripped_mangrove_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }

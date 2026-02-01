@@ -10,8 +10,6 @@
         },
         "axis=x": {
             "model": "wilderwild:block/stripped_hollowed_maple_log",
-            "x": 90,
-            "y": 90,
             "z": 90
         }
     }
