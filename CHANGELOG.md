@@ -1,3 +1,9 @@
+## Round Trees v8.1
+- Fix compatibility with 1.21.10 and up
+- Improve model to further reduce z-fighting
+- Fix incompatibility warning on 1.21.9 and up
+
+# Round Trees v8.0
 - Full rewrite
   - Now generated via Python script!
 - Optimized round log model
