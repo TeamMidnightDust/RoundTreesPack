@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "morelapis:block/lapis_log_top",
+        "side": "morelapis:block/lapis_log"
+    }
+}

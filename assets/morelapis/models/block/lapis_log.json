@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "morelapis:block/lapis_log_top",
+        "side": "morelapis:block/lapis_log"
+    }
+}
