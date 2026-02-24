@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "clutter:block/redwood_log_top",
+        "side": "clutter:block/redwood_log"
+    }
+}
