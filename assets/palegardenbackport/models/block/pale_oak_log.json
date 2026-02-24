@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "palegardenbackport:block/pale_oak_log_top",
+        "side": "palegardenbackport:block/pale_oak_log"
+    }
+}
