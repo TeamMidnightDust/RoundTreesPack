@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "ceilands:block/stripped_luzawood_log_top",
+        "side": "ceilands:block/stripped_luzawood_log"
+    }
+}

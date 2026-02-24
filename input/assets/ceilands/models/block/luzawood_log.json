@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "ceilands:block/luzawood_log_top",
+    "side": "ceilands:block/luzawood_log"
+  }
+}

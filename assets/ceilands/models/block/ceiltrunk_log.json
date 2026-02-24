@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "ceilands:block/ceiltrunk_log_top",
+        "side": "ceilands:block/ceiltrunk_log"
+    }
+}
