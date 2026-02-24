@@ -1,3 +1,12 @@
+## Round Trees v8.2
+- compat: Dawn of Time
+- compat: Hybrid Aquatic
+- compat: More Lapis Lazuli
+- compat: The Ceilands
+- compat: Pale Garden Backport
+- compat: Clutter
+- Fix wrong log rotation in versions below 1.21.10 caused by previous fix for newer versions
+
 ## Round Trees v8.1
 - Fix compatibility with 1.21.10 and up
 - Improve model to further reduce z-fighting
