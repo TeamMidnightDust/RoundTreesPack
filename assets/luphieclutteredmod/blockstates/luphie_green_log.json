@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "luphieclutteredmod:block/luphie_green_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

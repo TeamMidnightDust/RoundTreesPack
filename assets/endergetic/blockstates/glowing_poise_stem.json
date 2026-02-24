@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "endergetic:block/glowing_poise_stem",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

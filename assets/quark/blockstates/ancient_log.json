@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "quark:block/ancient_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

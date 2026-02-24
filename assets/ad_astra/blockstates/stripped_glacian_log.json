@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "ad_astra:block/stripped_glacian_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

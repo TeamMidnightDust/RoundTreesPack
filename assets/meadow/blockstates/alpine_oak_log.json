@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "meadow:block/alpine_oak_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

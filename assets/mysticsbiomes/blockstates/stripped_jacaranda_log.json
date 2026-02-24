@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "mysticsbiomes:block/stripped_jacaranda_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

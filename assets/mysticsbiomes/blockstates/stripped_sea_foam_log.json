@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "mysticsbiomes:block/stripped_sea_foam_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

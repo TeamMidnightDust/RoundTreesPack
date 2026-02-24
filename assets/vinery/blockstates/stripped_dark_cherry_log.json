@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "vinery:block/stripped_dark_cherry_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

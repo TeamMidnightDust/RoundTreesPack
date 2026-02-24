@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "woods_and_mires:block/pine_shrub_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

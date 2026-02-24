@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "environmental:block/stripped_plum_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

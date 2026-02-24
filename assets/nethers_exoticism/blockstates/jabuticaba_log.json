@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "nethers_exoticism:block/jabuticaba_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

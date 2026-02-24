@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "terrestria:block/stripped_redwood_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

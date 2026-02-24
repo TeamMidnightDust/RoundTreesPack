@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "minecraft:block/stripped_mangrove_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

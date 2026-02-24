@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "atmospheric:block/yucca_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

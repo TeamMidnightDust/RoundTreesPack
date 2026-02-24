@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "snifferplus:block/stripped_stone_pine_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

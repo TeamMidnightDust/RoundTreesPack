@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "deeperdarker:block/enriched_echo_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

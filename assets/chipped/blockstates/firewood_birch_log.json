@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "chipped:block/firewood_birch_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "bloomingnature:block/swamp_cypress_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

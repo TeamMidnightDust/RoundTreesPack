@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "traverse:block/stripped_fir_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

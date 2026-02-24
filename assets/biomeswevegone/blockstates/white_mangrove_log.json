@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "biomeswevegone:block/white_mangrove_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

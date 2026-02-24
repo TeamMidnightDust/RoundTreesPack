@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "minecraft:block/warped_stem",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "mariposa:block/stripped_sequoia_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

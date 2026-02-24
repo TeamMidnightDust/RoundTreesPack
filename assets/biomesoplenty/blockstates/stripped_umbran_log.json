@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "biomesoplenty:block/stripped_umbran_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

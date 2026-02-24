@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "bewitchment:block/stripped_juniper_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

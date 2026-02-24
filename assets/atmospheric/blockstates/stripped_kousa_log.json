@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "atmospheric:block/stripped_kousa_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

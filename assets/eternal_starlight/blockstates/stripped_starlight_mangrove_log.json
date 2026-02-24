@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "eternal_starlight:block/stripped_starlight_mangrove_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

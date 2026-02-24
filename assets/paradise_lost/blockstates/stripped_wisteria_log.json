@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "paradise_lost:block/stripped_wisteria_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

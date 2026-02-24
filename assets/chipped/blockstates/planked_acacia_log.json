@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "chipped:block/planked_acacia_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

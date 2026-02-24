@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "wilderwild:block/stripped_hollowed_palm_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }

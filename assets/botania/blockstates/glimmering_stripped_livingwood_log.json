@@ -10,7 +10,8 @@
         },
         "axis=x": {
             "model": "botania:block/glimmering_stripped_livingwood_log",
-            "z": 90
+            "x": 90,
+            "y": 90
         }
     }
 }
