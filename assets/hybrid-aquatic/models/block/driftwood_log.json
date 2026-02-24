@@ -1,0 +1,7 @@
+{
+    "parent": "block/log",
+    "textures": {
+        "top": "hybrid-aquatic:block/driftwood_log_top",
+        "side": "hybrid-aquatic:block/driftwood_log"
+    }
+}
