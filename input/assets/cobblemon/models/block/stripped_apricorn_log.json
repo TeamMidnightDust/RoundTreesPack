@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_column",
   "textures": {
-    "end": "cobblemon:block/stripped_apricorn_log_top",
-    "side": "cobblemon:block/stripped_apricorn_log"
+    "end": "cobblemon:block/wood/stripped_apricorn_log_top",
+    "side": "cobblemon:block/wood/stripped_apricorn_log"
   }
 }

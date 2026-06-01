@@ -1,7 +1,7 @@
 {
     "parent": "block/log",
     "textures": {
-        "top": "cobblemon:block/apricorn_log_top",
-        "side": "cobblemon:block/apricorn_log"
+        "top": "cobblemon:block/wood/apricorn_log_top",
+        "side": "cobblemon:block/wood/apricorn_log"
     }
 }
