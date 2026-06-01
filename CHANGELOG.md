@@ -1,3 +1,6 @@
+## Round Trees v8.3
+- Fixed wrong Cobblemon apricorn logs texture paths
+
 ## Round Trees v8.2
 - compat: Dawn of Time
 - compat: Hybrid Aquatic
