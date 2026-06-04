@@ -4,6 +4,6 @@
     "supported_formats": [15, 255],
     "min_format": 15,
     "max_format": 255,
-    "description": "§2Version ${version}\n§e©Motschen ${year} | MIT Licence"
+    "description": "§2Version ${version}\n§e©Motschen ${year} | MIT License"
   }
 }
