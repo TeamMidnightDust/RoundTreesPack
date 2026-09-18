@@ -1,7 +1,13 @@
+## Round Trees v8.4
+
+- Add regular and stripped Poplar logs (Minecraft 26.3)
+
 ## Round Trees v8.3
+
 - Fixed wrong Cobblemon apricorn logs texture paths
 
 ## Round Trees v8.2
+
 - compat: Dawn of Time
 - compat: Hybrid Aquatic
 - compat: More Lapis Lazuli
@@ -11,11 +17,13 @@
 - Fix wrong log rotation in versions below 1.21.10 caused by previous fix for newer versions
 
 ## Round Trees v8.1
+
 - Fix compatibility with 1.21.10 and up
 - Improve model to further reduce z-fighting
 - Fix incompatibility warning on 1.21.9 and up
 
 # Round Trees v8.0
+
 - Full rewrite
   - Now generated via Python script!
 - Optimized round log model
